@@ -1,0 +1,42 @@
+﻿
+html, body {
+    height: 100%;
+}
+
+body {
+    background-image: url("../../img/ambient6.jpg");
+}
+
+.navbar {
+    background: transparent;
+    border: none;
+    padding: 25px;
+}
+
+.navbar-default .navbar-brand {
+    color: white;
+    font-size: 16pt;
+    margin-right: 75px;
+}
+
+.navbar ul {
+    font-size: 12pt;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+
+.dropdown-menu {
+    background: #272727;
+    
+}
+
+.dropdown-menu > li > a {
+    color: white;
+    font-size: 10pt;
+}
+
+.dropdown-menu > li > a:hover {
+    background: darkgray;
+}
