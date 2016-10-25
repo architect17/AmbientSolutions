@@ -4,7 +4,7 @@ html, body {
 }
 
 body {
-    background-image: url("../../img/ambient6.jpg");
+    background-image: url("../../img/site_background.jpg");
 }
 
 .navbar {
@@ -16,7 +16,6 @@ body {
 .navbar-default .navbar-brand {
     color: white;
     font-size: 16pt;
-    margin-right: 75px;
 }
 
 .navbar ul {

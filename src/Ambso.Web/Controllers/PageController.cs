@@ -6,7 +6,7 @@ using Microsoft.AspNet.Mvc;
 
 namespace Ambso.Web.Controllers
 {
-    public class ContentController : Controller
+    public class PageController : Controller
     {
         [HttpGet("/")]
         public IActionResult Home()
